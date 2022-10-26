@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,John wanted something to do.,John wanted something to do.,John wanted something to do.,1.0,1.0,0.9976851851851852,0.9976851851851852,1.0,1.0,100.00000000000004,100.00000000000004
+1,John decided to play a sport.,He decided to go to the park.,John decided to play a sport.,0.0,1.0,0.189873417721519,0.9985422740524781,0.9424809217453003,1.0,12.22307556087252,100.00000000000004
+2,John spotted his golf clubs.,He went for a walk.,"Looking around, John spotted his golf clubs.",0.0,0.6065306597126334,0.07936507936507937,0.9501763668430336,0.894507884979248,0.9789315462112427,4.923026124015933,60.653065971263366
+3,John called up his friends to play.,He saw many animals.,John called up his friends to play.,0.0,1.0,0.09433962264150944,0.9990234375,0.9153063297271729,1.0,5.862502026550896,100.00000000000004
+4,John had an exciting day playing golf.,He enjoyed the park.,John had an exciting day playing golf.,0.0,1.0,0.09433962264150944,0.9990234375,0.9382845163345337,1.0,5.862502026550896,100.00000000000004

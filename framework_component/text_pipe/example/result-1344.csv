@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Oswald decided to write a novel.,Oswald decided to write a novel.,Oswald decided to write a novel.,1.0,1.0,0.9985422740524781,0.9985422740524781,1.0,1.0,100.00000000000004,100.00000000000004
+1,He worked on his book for several months.,about a man named Oswald.,He worked on his book for several months.,0.0,1.0,0.07936507936507937,0.9993141289437586,0.8714303970336914,1.0,4.923026124015933,100.00000000000004
+2,Oswald took his book to a publisher.,Oswald was a very good writer.,Oswald took his book to a publisher.,0.0,1.0,0.2112676056338028,0.9990234375,0.9378147721290588,1.0,7.492442692259767,100.00000000000004
+3,the publisher rejected his book almost immediately.,about a man named Oswald.,The publisher rejected his book almost immediately.,0.0,0.8408964152537145,0.16129032258064518,0.9990234375,0.8693314790725708,0.9828704595565796,5.815868174415823,84.08964152537145
+4,oswald decided to give up on writing.,about a man named Oswald.,Oswald decided to give up on writing.,0.0,0.8408964152537145,0.16129032258064518,0.9990234375,0.869550347328186,0.9618734121322632,6.916271812933183,84.08964152537145

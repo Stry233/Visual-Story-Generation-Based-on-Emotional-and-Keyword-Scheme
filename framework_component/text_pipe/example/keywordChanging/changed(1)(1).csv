@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Ethan turned the oven on.,Ethan turned the oven on.,Ethan turned the oven on.,1.0,1.0,0.9976851851851852,0.9976851851851852,1.0,1.0,100.00000000000004,100.00000000000004
+1,he put a potato in the oven.,He put the oven in the oven.,He put a potato in the oven.,0.4111336169005197,0.8408964152537145,0.7361111111111112,0.9990234375,0.9492225050926208,0.9812979698181152,41.11336169005198,84.08964152537145
+2,cooked for an hour.,He put the lid on.,It cooked for an hour.,0.0,0.8187307530779819,0.08333333333333333,0.9764705882352942,0.8913205862045288,0.9561107158660889,8.116697886877475,81.87307530779823
+3,"Suddenly, he smelled it burning.",He put the lid on.,He pulled it out.,0.0,0.0,0.1694915254237288,0.22058823529411764,0.9181685447692871,0.9192692637443542,9.652434877402245,7.809849842300637
+4,"Afterwards, he ruined dinner.",He put the lid on.,He ate it for dinner.,0.0,0.0,0.16666666666666666,0.42592592592592593,0.9018918871879578,0.9330317378044128,9.652434877402245,16.233395773754953

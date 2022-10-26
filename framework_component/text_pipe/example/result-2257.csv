@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,My tools were becoming too abundant in my backyard.,My tools were becoming too abundant in my backyard.,My tools were becoming too abundant in my backyard.,1.0,1.0,0.9995,0.9995,1.0,1.0,100.00000000000004,100.00000000000004
+1,I needed a place to put them to keep them together.,I decided to build a shed.,I needed a place to put them to keep them together.,0.0,1.0,0.26666666666666666,0.9997106481481481,0.9436372518539429,1.0,4.546632359631261,100.00000000000004
+2,I decided to build a small shed.,I gathered all my tools and tools.,I decided to build a small shed.,0.0,1.0,0.125,0.9990234375,0.8908967971801758,1.0,6.567274736060395,100.00000000000004
+3,I went to a home improvement store and bought a shed kit.,I put them in the shed.,I went to a home improvement store and bought a shed kit.,0.0,1.0,0.19736842105263158,0.9997724169321802,0.9363851547241211,0.9999999403953552,3.667862829704212,100.00000000000004
+4,I returned home and set the shed in my yard.,I walked out to the backyard.,I returned home and set up the shed in my yard.,0.0,0.7426141117870938,0.19999999999999998,0.9880128061946244,0.9302492141723633,0.9863197803497314,4.231118166423695,74.26141117870938

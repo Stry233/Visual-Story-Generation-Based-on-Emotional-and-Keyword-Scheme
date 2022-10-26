@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Lucius was asked to write a report on aging.,Lucius was asked to write a report on aging.,Lucius was asked to write a report on aging.,1.0,1.0,0.9995,0.9995,1.0,1.0,100.00000000000004,100.00000000000004
+1,He imagined his own life at 85.,he was asked to write a report on aging.,He imagined his own life at 85.,0.0,1.0,0.10204081632653061,0.9990234375,0.8901010155677795,1.0,4.196114906296549,100.00000000000004
+2,"he thought of his grandfather, who has a simple but happy life.",on aging.,"He thought of his grandfather, who has a simple but happy life.",0.0,0.9193227152249185,0.12195121951219513,0.9998177842565598,0.8940144777297974,0.9910987615585327,0.0,91.93227152249175
+3,Lucius realized he didn't fear aging.,on aging.,Lucius realized he didn't fear aging.,0.0,1.0,0.5357142857142858,0.9990234375,0.9211399555206299,1.0,0.0,100.00000000000004
+4,he drove to his grandfather's house after school to be with him.,on aging. on aging.,He drove to his grandfather's house after school to be with him.,0.0,0.912167909070388,0.07352941176470588,0.9998177842565598,0.8945815563201904,0.9912582635879517,2.5275658895144484,91.21679090703874

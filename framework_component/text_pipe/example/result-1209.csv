@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,John tried out for the high school tennis team.,John tried out for the high school tennis team.,John tried out for the high school tennis team.,1.0,1.0,0.9995,0.9995,1.0,1.0,100.00000000000004,100.00000000000004
+1,John learned he needed to buy a new racquet.,.,John learned he needed to buy a new racquet.,0.0,1.0,0.2631578947368421,0.9995,0.9998877048492432,1.0,0.0,100.00000000000004
+2,John researched which racquets professional tennis players used.,.,John researched which racquets professional tennis players used.,0.0,1.0,0.27777777777777785,0.9993141289437586,0.999862015247345,1.0,0.0,100.00000000000004
+3,racquets tried many racquets.,..,John tried many racquets.,0.0,0.668740304976422,0.0,0.7937500000000002,0.8542186617851257,0.9167861342430115,0.0,66.87403049764218
+4,bought a new racquet and enjoyed his time on the team.,...........,John bought a new racquet and enjoyed his time on the team.,0.0,0.9200444146293233,0.0,0.9914485766758494,0.849921703338623,0.9771045446395874,3.124719790499494,92.00444146293236

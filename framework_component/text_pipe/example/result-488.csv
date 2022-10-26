@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Sam was making french fries on the stove.,Sam was making french fries on the stove.,Sam was making french fries on the stove.,1.0,1.0,0.9993141289437586,0.9993141289437586,1.0,1.0,100.00000000000004,100.00000000000004
+1,His pot of oil lit on fire.,.,His pot of oil lit on fire.,0.0,1.0,0.2941176470588236,0.9990234375,0.9998566508293152,1.0,0.0,100.00000000000004
+2,Sam quickly tried to remember how to put out a grease fire.,"Suddenly, a flame came on.",Sam quickly tried to remember how to put out a grease fire.,0.0,1.0,0.19736842105263158,0.9997724169321802,0.8932652473449707,1.0,3.3142882018868,100.00000000000004
+3,he remembered to smother the flame.,.,"Then, he remembered to smother the flame.",0.0,0.751477293075286,0.27777777777777785,0.9708049886621315,0.9998804926872253,0.9807619452476501,0.0,75.14772930752862
+4,"he covered it with another pot, and the fire went out.",..,"He covered it with another pot, and the fire went out.",0.0,0.912167909070388,0.0,0.9997724169321802,0.827096700668335,0.9902557730674744,0.0,91.21679090703874

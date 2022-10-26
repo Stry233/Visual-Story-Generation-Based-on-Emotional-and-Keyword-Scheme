@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Ethan was at the fair with his family.,Ethan was at the fair with his family.,Ethan was at the fair with his family.,1.0,1.0,0.9993141289437586,0.9993141289437586,1.0,1.0,100.00000000000004,100.00000000000004
+1,he was hoping this year to be tall enough for the coaster.,he was very nervous.,He was hoping this year to be tall enough for the coaster.,0.0,0.912167909070388,0.4406130268199234,0.9997724169321802,0.9048439264297485,0.977864146232605,2.564755813286796,91.21679090703874
+2,he eagerly stood to be measured for the ride.,.,He eagerly stood to be measured for the ride.,0.0,0.8801117367933934,0.2631578947368421,0.9995,0.9998722076416016,0.9803750514984131,0.0,88.01117367933934
+3,"Upon his dismay, he was not quite tall enough.",.,"To his dismay, he was not quite tall enough.",0.0,0.8931539818068694,0.25000000000000006,0.9086363636363638,0.9998629689216614,0.9783682227134705,0.0,89.31539818068698
+4,"Luckily, he could tell that he was so close, next year would be time.",..,"Luckily, he could tell that he was so close, next year would be time.",0.0,1.0,0.0,0.999898229187869,0.8305643200874329,0.9999999403953552,0.0,100.00000000000004

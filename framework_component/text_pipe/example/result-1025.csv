@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Kevin was running late for work.,Kevin was running late for work.,Kevin was running late for work.,1.0,1.0,0.9985422740524781,0.9985422740524781,0.9999999403953552,0.9999999403953552,100.00000000000004,100.00000000000004
+1,Jeremy was dressed but needed a pair of socks to wear.,.,He was dressed but needed a pair of socks to wear.,0.0,0.9036020036098448,0.2380952380952381,0.9163223140495868,0.9998714327812195,0.9868021011352539,0.0,90.36020036098445
+2,Jeremy looked all over the house for socks.,.,He looked all over the house for socks.,0.0,0.8633400213704505,0.27777777777777785,0.8880208333333333,0.9998948574066162,0.9758760333061218,0.0,86.33400213704509
+3,Jeremy could only not find any pair of socks that matched.,..,Kevin could only not find any pair of socks that matched.,0.0,0.9036020036098448,0.0,0.9163223140495868,0.8415855169296265,0.9949630498886108,0.0,90.36020036098445
+4,Jeremy decided to wear two mismatches and hope that no one noticed.,....,He decided to wear two mismatches and hope that no one noticed.,0.0,0.912167909070388,0.0,0.9228098290598291,0.8411198854446411,0.9885398149490356,1.683602693167689,91.21679090703874

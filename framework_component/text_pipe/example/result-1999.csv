@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,I wanted to do a different thing than the usual.,I wanted to do a different thing than the usual.,I wanted to do a different thing than the usual.,1.0,1.0,0.9996243425995492,0.9996243425995492,1.0000001192092896,1.0000001192092896,100.00000000000004,100.00000000000004
+1,I got into my car and went on the road.,I decided to do a dance.,I got into my car and went on the road.,0.0,1.0,0.13513513513513514,0.9996243425995492,0.9333250522613525,1.0,4.410363736106611,100.00000000000004
+2,I stopped at a blockbuster video store.,I did a lot of choreography.,I stopped at a blockbuster video store.,0.0,1.0,0.2112676056338028,0.9990234375,0.8900721073150635,1.0,7.492442692259767,100.00000000000004
+3,I went inside and rented a movie.,I did a lot of choreography.,I went inside and rented a movie.,0.0,1.0,0.2112676056338028,0.9990234375,0.8991677761077881,0.9999998807907104,7.492442692259767,100.00000000000004
+4,I brought the movie home and watched the whole thing.,I did a dance.,I brought the movie home and watched the whole thing.,0.0,1.0,0.1785714285714286,0.9996243425995492,0.9348986744880676,1.0,3.8261660656802645,100.00000000000004

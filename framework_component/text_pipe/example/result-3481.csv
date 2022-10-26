@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Phil loves to garden.,Phil loves to garden.,Phil loves to garden.,1.0,1.0,0.996,0.996,1.0,1.0,100.00000000000004,100.00000000000004
+1,in his neighborhood was having a gardening contest,He planted a garden in his backyard.,His neighborhood was having a gardening contest,0.0,0.6803749333171202,0.3234880450070324,0.884784293464221,0.9364758133888245,0.9584861993789673,5.522397783539471,68.037493331712
+2,Phil bought flowers at a local plant nursery.,He planted a vegetable garden.,Phil bought flowers at a local plant nursery.,0.0,1.0,0.2380952380952381,0.9993141289437586,0.9307413101196289,0.9999999403953552,5.854497694024015,100.00000000000004
+3,he planted as many flowers as he could.,He planted a vegetable garden.,He planted as many flowers as he could.,0.0,0.8633400213704505,0.3174603174603175,0.9993141289437586,0.9490997791290283,0.9858758449554443,10.89644800332157,86.33400213704509
+4,Phil's garden won first place.,He planted a vegetable garden.,Phil's garden won first place.,0.0,1.0,0.1639344262295082,0.9985422740524781,0.9207724332809448,1.0000001192092896,9.652434877402245,100.00000000000004

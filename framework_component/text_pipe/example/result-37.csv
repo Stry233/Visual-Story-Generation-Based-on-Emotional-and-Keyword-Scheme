@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Jason started an ice cream stand that was open year-round.,Jason started an ice cream stand that was open year-round.,Jason started an ice cream stand that was open year-round.,1.0,1.0,0.9996243425995492,0.9996243425995492,1.0,1.0,100.00000000000004,100.00000000000004
+1,During the summer his business was booming!,all year long.,During the summer his business was booming!,0.0,1.0,0.0,0.9990234375,0.8784951567649841,0.9999999403953552,0.0,100.00000000000004
+2,sales slowed down during the winter months.,..,"Unfortunately, sales slowed down during the winter months.",0.0,0.7788007830714049,0.0,0.9746570121951219,0.8428589701652527,0.9736427068710327,0.0,77.88007830714052
+3,Despite it wasn't the money to keep the business open in the winter.,...,It wasn't worth the money to keep the business open in the winter.,0.0,0.7744031410142033,0.0,0.9319727891156462,0.834294855594635,0.9412274360656738,0.0,77.4403141014203
+4,Jason decided to turn his ice cream stand into a seasonal business.,...,Jason decided to turn his ice cream stand into a seasonal business.,0.0,1.0,0.0,0.9997724169321802,0.8307530283927917,1.0,0.0,100.00000000000004

@@ -1,0 +1,6 @@
+,generated - prompt,generated - no prompt,ground truth,BLEU - no prompt,BLEU - prompt,METEOR - no prompt,METEOR - prompt,BERT - no prompt,BERT - prompt,SacreBLEU - no prompt,SacreBLEU - prompt
+0,Sam was cutting wood.,Sam was cutting wood.,Sam was cutting wood.,1.0,1.0,0.996,0.996,1.0000001192092896,1.0000001192092896,100.00000000000004,100.00000000000004
+1,he was using a hand saw.,A saw came on.,He was using a hand saw.,0.0,0.8091067115702212,0.28846153846153844,0.9985422740524781,0.9157083034515381,0.9878640174865723,8.51528917838043,80.91067115702207
+2,he wasn't wearing eye protection.,A knife came on.,Unfortunately he wasn't wearing eye protection.,0.0,0.846481724890614,0.09433962264150944,0.9844782983615982,0.8901703357696533,0.9713526964187622,7.16047614494885,84.64817248906144
+3,a piece of wood flew up and hit him in the eye.,A knife came off.,A piece of wood flew up and hit him in the eye.,0.0,0.912167909070388,0.25862068965517243,0.9997724169321802,0.907453179359436,0.9930400252342224,2.564755813286796,91.21679090703874
+4,Sam lost eyesight for a while.,Sam was able to get it out.,Sam lost eyesight for a while.,0.0,1.0,0.12658227848101264,0.9985422740524781,0.8954862356185913,1.0,6.567274736060395,100.00000000000004

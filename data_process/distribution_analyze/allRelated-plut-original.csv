@@ -1,0 +1,9 @@
+,emotion,freq,highly related,all related info
+0,anticipation,23717,"['joy', 'surprise', 'trust', 'fear']","{'joy': 14461, 'surprise': 12100, 'trust': 11137, 'fear': 7871, 'sadness': 5358, 'anger': 4020, 'disgust': 3921}"
+1,joy,22337,"['anticipation', 'trust', 'surprise', 'fear']","{'anticipation': 14461, 'trust': 13016, 'surprise': 9220, 'fear': 2566, 'sadness': 1342, 'disgust': 1014, 'anger': 994}"
+2,surprise,19296,"['anticipation', 'joy', 'fear', 'trust']","{'anticipation': 12100, 'joy': 9220, 'fear': 7885, 'trust': 7439, 'sadness': 6937, 'anger': 5847, 'disgust': 5515}"
+3,trust,15032,"['joy', 'anticipation', 'surprise', 'fear']","{'joy': 13016, 'anticipation': 11137, 'surprise': 7439, 'fear': 2739, 'sadness': 1846, 'disgust': 1302, 'anger': 1273}"
+4,fear,12690,"['surprise', 'anticipation', 'sadness', 'anger']","{'surprise': 7884, 'anticipation': 7870, 'sadness': 7193, 'anger': 5394, 'disgust': 5237, 'trust': 2738, 'joy': 2565}"
+5,sadness,12318,"['fear', 'anger', 'surprise', 'disgust']","{'fear': 7193, 'anger': 6975, 'surprise': 6936, 'disgust': 6606, 'anticipation': 5357, 'trust': 1845, 'joy': 1341}"
+6,anger,9919,"['sadness', 'disgust', 'surprise', 'fear']","{'sadness': 6975, 'disgust': 6796, 'surprise': 5846, 'fear': 5394, 'anticipation': 4019, 'trust': 1272, 'joy': 993}"
+7,disgust,8942,"['anger', 'sadness', 'surprise', 'fear']","{'anger': 6796, 'sadness': 6606, 'surprise': 5514, 'fear': 5237, 'anticipation': 3920, 'trust': 1301, 'joy': 1013}"

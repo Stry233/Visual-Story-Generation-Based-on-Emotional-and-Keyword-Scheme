@@ -17,6 +17,10 @@ We implement a simple demo showing the deployment ver. of our framework ![here](
 
 ## Evaluation
 
+![result](https://user-images.githubusercontent.com/31975605/198363095-0137ccb5-93cc-4e60-ae12-71e41d9d0e69.png)
+
+We demonstrate a performance distribution of the baseline model and the prompt-optimized model in 3,748 sets of experiments under different metrics. The blue box on the left side of each figure represents our method and the orange on the right side represents the baseline model.
+
 ## Examples
 
 Here is several example storiesyou can generate using this framework.
@@ -25,9 +29,9 @@ Here is several example storiesyou can generate using this framework.
 |:--------:	|:----------------------------------------------:	|-------	|
 |     0    	| Marcus was collecting shells on the beach.     	|![image](https://user-images.githubusercontent.com/31975605/198362031-90861c5e-49d1-48f3-8d19-ce6d289ae907.png)|
 |     1    	| He picked up a large beautiful shell.          	|![image](https://user-images.githubusercontent.com/31975605/198362107-087f8f70-c69f-4cdc-949d-9b4a9a639aa9.png)|
-|     2    	| He put it in his pocket to save for later.     	|![image](https://user-images.githubusercontent.com/31975605/198362133-8f846607-8a37-406d-8bdc-0193f1dcae90.png)|
-|     3    	| Suddenly he felt a sharp pinch.                	|![image](https://user-images.githubusercontent.com/31975605/198362161-dc73830b-461a-405c-baed-2e9f52b39ff0.png)|
-|     4    	| A crab was inside the shell pinching his leg.. 	|![image](https://user-images.githubusercontent.com/31975605/198362193-65bccbf5-f041-4275-bc07-5ad69fd4fd58.png)|
+|     2    	| He put it in his pocket to save for later.     	|![image](https://user-images.githubusercontent.com/31975605/198362407-e73c447e-7164-47bf-8f08-73a1a9c4c50d.png)|
+|     3    	| Suddenly he felt a sharp pinch.                	|![image](https://user-images.githubusercontent.com/31975605/198362444-97ae8442-2030-465b-8a01-c3792cf40b3e.png)|
+|     4    	| A crab was inside the shell pinching his leg.. 	|![image](https://user-images.githubusercontent.com/31975605/198362481-a1d73dfa-b427-491c-9008-9f3e03b8938c.png)|
 
 ## Citation
 

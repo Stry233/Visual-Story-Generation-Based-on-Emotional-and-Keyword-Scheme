@@ -10,12 +10,6 @@ In this work, we propose a narrative generation pipeline to co-create visual sto
 
 ![NLP Pipeline - Main](https://user-images.githubusercontent.com/31975605/184089838-ad2f43d6-0294-4fe8-a4ca-fcd6e626986e.jpg)
 
-## Pipeline
-### Text pipeline
-### Image pipeline
-
-## Usage
-
 
 ## Examples
 

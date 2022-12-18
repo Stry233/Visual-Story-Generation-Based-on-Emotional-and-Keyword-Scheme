@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VSG-EK/webGUI/static/css/main.f631bee6.css",
-    "main.js": "/VSG-EK/webGUI/static/js/main.d237916c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/VSG-EK/webGUI/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/VSG-EK/webGUI/index.html",
-    "main.f631bee6.css.map": "/VSG-EK/webGUI/static/css/main.f631bee6.css.map",
-    "main.d237916c.js.map": "/VSG-EK/webGUI/static/js/main.d237916c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/VSG-EK/webGUI/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/VSG-EK/static/css/main.f631bee6.css",
+    "main.js": "/VSG-EK/static/js/main.0749166a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VSG-EK/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/VSG-EK/index.html",
+    "main.f631bee6.css.map": "/VSG-EK/static/css/main.f631bee6.css.map",
+    "main.0749166a.js.map": "/VSG-EK/static/js/main.0749166a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VSG-EK/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f631bee6.css",
-    "static/js/main.d237916c.js"
+    "static/js/main.0749166a.js"
   ]
 }

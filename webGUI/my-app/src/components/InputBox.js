@@ -35,7 +35,7 @@ import {
 
     const handleOpenChange = (newOpen) => {
       try {
-        const url = new URL("http://129.161.106.27:5000/sngparser"); //129.161.106.27
+        const url = new URL("http://###.###.###.##:5000/sngparser"); //###.###.###.##
         url.searchParams.append('sentence', contexts);
         fetch(url)
           .then(data => data.json())

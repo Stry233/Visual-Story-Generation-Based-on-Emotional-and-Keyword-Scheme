@@ -25,7 +25,7 @@ import {
       // send request
   
       try {
-        const Url = new URL("http://35.239.173.52:5000/stablediffusion");
+        const Url = new URL("http://129.161.106.27:5000/stablediffusion");
         Url.searchParams.append('sentence', sentence);
         console.log(Url)
         await fetch(Url)
@@ -41,7 +41,7 @@ import {
       // send request
   
       try {
-        const url = new URL("http://35.239.173.52:5000/roberta-large"); //35.239.173.52
+        const url = new URL("http://129.161.106.27:5000/roberta-large"); //129.161.106.27
         url.searchParams.append('sentence', it);
         fetch(url)
           .then(data => data.json())

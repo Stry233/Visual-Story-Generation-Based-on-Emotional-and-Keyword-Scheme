@@ -1,4 +1,4 @@
-# Visual-Story-Generation-Based-on-Emotional-and-Keyword-Scheme
+# Visual Story Generation Based on Emotional and Keyword Scheme
 
 [[Paper]]() [[Model Card]](https://huggingface.co/Yuetian) [[Deployment Demo]](http://int-2022-visual-story-gen.uw.r.appspot.com/)
 

@@ -1,6 +1,6 @@
 # Visual Story Generation Based on Emotional and Keyword Scheme
 
-[[Paper]]() [[Model Card]](https://huggingface.co/Yuetian) [[Deployment Demo]](http://int-2022-visual-story-gen.uw.r.appspot.com/)
+[[Paper]]() [[Model Card]](https://huggingface.co/Yuetian) [[Deployment Demo]](http://vsg-ek.herokuapp.com/)
 
 ## Overview
 
@@ -23,7 +23,7 @@ The pipeline includes two parts: narrative and image generation. In narrative ge
 
 <img src="https://user-images.githubusercontent.com/31975605/198687497-3de4cc18-f135-4537-9367-d3a24f26134e.png" alt="image-20221028093158937" style="zoom:40%;" />
 
-We implement a simple demo showing the deployment ver. of our framework [here](http://int-2022-visual-story-gen.uw.r.appspot.com/). Please referred to the Q&A section for more information
+We implement a simple demo showing the deployment ver. of our framework [here](http://vsg-ek.herokuapp.com/). Please referred to the Q&A section for more information
 
 ## Evaluation
 

@@ -27,7 +27,7 @@ We implement a simple demo showing the deployment ver. of our framework [here](h
 
 ## Evaluation
 
-<img src="https://user-images.githubusercontent.com/31975605/198363095-0137ccb5-93cc-4e60-ae12-71e41d9d0e69.png" alt="result" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/31975605/198363095-0137ccb5-93cc-4e60-ae12-71e41d9d0e69.png" alt="result" style="zoom:30%;" />
 
 We demonstrate a performance distribution of the baseline model and the prompt-optimized model in 3,748 sets of experiments under different metrics. The blue box on the left side of each figure represents our method and the orange on the right side represents the baseline model.
 

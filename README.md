@@ -20,8 +20,7 @@ The pipeline includes two parts: narrative and image generation. In narrative ge
 
 
 ## GUI demo
-
-<img src="https://user-images.githubusercontent.com/31975605/198687497-3de4cc18-f135-4537-9367-d3a24f26134e.png" alt="image-20221028093158937" style="zoom:40%;" />
+<img src="https://user-images.githubusercontent.com/31975605/210292999-55904f27-6cc4-4051-8a75-599c35a95082.png" alt="image-20221028093158937" style="zoom:40%;" />
 
 We implement a simple demo showing the deployment ver. of our framework [here](http://vsg-ek.herokuapp.com/). Please referred to the Q&A section for more information
 

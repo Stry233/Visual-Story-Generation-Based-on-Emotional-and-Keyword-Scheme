@@ -44,4 +44,13 @@ Here is several example stories you can generate using this framework.
 
 ## Citation
 
-We are publishing our workshop paper "Visual Story Generation Based on Emotional and Keyword Scheme" at INT 2022 with citation info released very soon. Stay tuned :-)
+```
+@misc{chen2023visual,
+      title={Visual Story Generation Based on Emotion and Keywords}, 
+      author={Yuetian Chen and Ruohua Li and Bowen Shi and Peiru Liu and Mei Si},
+      year={2023},
+      eprint={2301.02777},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```

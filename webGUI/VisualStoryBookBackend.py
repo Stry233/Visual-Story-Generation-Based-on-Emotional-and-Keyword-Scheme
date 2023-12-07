@@ -17,7 +17,7 @@ import sng_parser
 app = Flask(__name__)
 CORS(app)
 
-access_token = "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"
+access_token = ""
 
 t5tokenizer = AutoTokenizer.from_pretrained("Yuetian/T5-finetuned-storyCommonsense")
 t5model = AutoModelForSeq2SeqLM.from_pretrained("Yuetian/T5-finetuned-storyCommonsense")

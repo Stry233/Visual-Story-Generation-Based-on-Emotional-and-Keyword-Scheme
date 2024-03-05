@@ -1,6 +1,6 @@
 # Visual Story Generation Based on Emotional and Keyword Scheme
 
-[[Paper]]() [[Model Card]](https://huggingface.co/Yuetian) [[Deployment Demo]](http://vsg-ek.herokuapp.com/)
+[[Paper]](https://arxiv.org/abs/2301.02777) [[Model Card]](https://huggingface.co/Yuetian) [[Deployment Demo]](http://vsg-ek.herokuapp.com/)
 
 ## Overview
 
